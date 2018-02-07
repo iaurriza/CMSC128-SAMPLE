@@ -1,29 +1,31 @@
 IAN MICHAEL URRIZA
 JOHN LEINAND BUENO
-<<<<<<< HEAD
-a
-a
-
-a
-a
-a
-a
-
-a
-a
-
-a
-a
-a
-a
-a
-
-a
-a
-a
-
-=======
 JAN MAGNUS MARIANO
+a
+a
+
+a
+a
+a
+a
+
+a
+a
+
+a
+a
+a
+a
+a
+
+a
+a
+a
+
+
 qeqweqweqweqweqweqwe
+<<<<<<< HEAD
 >>>>>>> 4f69c5b6ea0b7fa53fc5465dae7d6674082df4cd
 qeqweqweqweqw
+=======
+>>>>>>> cce8ebaf113c93d8fbe86363e68605f67857388e
